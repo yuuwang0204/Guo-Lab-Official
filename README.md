@@ -1,5 +1,5 @@
 
-# yuuwang0204's Website
+# Guo Lab
 
 Visit **[yuuwang0204.github.io/Guo-Lab-Official](https://yuuwang0204.github.io/Guo-Lab-Official)** 🚀
 
