@@ -14,8 +14,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="qguo@gc.cuny.edu"
+  link="qguo@gc.cuny.edu"
 %}
 {%
   include button.html
