@@ -1,9 +1,9 @@
 ---
 ---
 
-# yuuwang0204's Website
+# Guo Lab
 
-An engaging 1-3 sentence description of your lab.
+This is the lab of professor Qiushi Guo at CUNY ASRC
 
 {% include section.html %}
 
