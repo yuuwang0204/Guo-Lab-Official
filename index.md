@@ -3,7 +3,11 @@
 
 # Guo Lab
 
-This is the lab of professor Qiushi Guo at CUNY ASRC
+The Guo group seeks to uncover new physical principles underlying the interaction between light and emerging active photonic materials, and to harness the resulting unprecedented optoelectronic properties in a scalable way to tackle the grand challenges in classical and quantum information processing, optical computing and mid-infrared sensing. Our future research directions include:
+
+Integrated ultrafast light sources and novel architectures for unconventional photonic computing;
+Next-generation thermal vision technologies and
+Quantum interactions between light and emerging materials.
 
 {% include section.html %}
 

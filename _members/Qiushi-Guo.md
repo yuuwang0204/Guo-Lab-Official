@@ -1,13 +1,13 @@
 ---
-name: Jane Smith
+name: Qiushi Guo
 image: images/photo.jpg
 role: pi
 aliases:
   - J. Smith
   - J Smith
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://asrc.gc.cuny.edu/people/qiushi-guo/
+  orcid: 0000-0002-6217-102X
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
