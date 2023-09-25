@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: /Guo-Lab-Official/sitemap.xml
